@@ -17,7 +17,7 @@ For more information, [see](http://algorithms.tutorialhorizon.com/backtracking-s
 
 ```java
 
- if(solveMaze(a,sol,x+1,y,str,n,l,count)==1)
+             if(solveMaze(a,sol,x+1,y,str,n,l,count)==1)
 				 return 1;
 			 if(solveMaze(a,sol,x,y+1,str,n,l,count)==1)
 				 return 1;
