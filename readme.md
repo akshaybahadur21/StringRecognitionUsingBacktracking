@@ -1,4 +1,4 @@
-## NQueen Problem
+## Find word occurance in a matrix using backtracking
 This code helps you to understand the occurance of a word in a given matrix using backtracking.
 
 
