@@ -1,5 +1,6 @@
 ## Find word occurance in a matrix using backtracking
 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/StringRecognitionUsingBacktracking/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+
 This code helps you to understand the occurance of a word in a given matrix using backtracking.
 
 ### Sourcerer
