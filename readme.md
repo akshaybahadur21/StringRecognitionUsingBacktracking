@@ -1,21 +1,19 @@
-## Find word occurance in a matrix using backtracking
+# Find word occurance in a matrix using backtracking 🔎
 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/StringRecognitionUsingBacktracking/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
 This code helps you to understand the occurance of a word in a given matrix using backtracking.
 
-### Sourcerer
-[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/StringRecognitionUsingBacktracking/links/7)
-
-### Code Requirements
+## Code Requirements 🦄
 The example code is in Java ([version 1.8](https://java.com/en/download/) or higher will work). 
 
-### Description
+## Description 🔭
 Backtracking is a general algorithm for finding all (or some) solutions to some computational problems, notably constraint satisfaction problems, that incrementally builds candidates to the solutions, and abandons each partial candidate ("backtracks") as soon as it determines that the candidate cannot possibly be completed to a valid solution.
 
 Given a 2D matrix of char­ac­ters. Check whether the word exist in the matrix or not. If it exists then print its path. All move­ments are allowed (right, left, up, down and diagonally).
 
 For more information, [see](http://algorithms.tutorialhorizon.com/backtracking-search-a-word-in-a-matrix/)
 
+## Results 📊
 <img src="https://github.com/akshaybahadur21/StringRecognitionUsingBacktracking/blob/master/matrix.png">
 
 
@@ -35,7 +33,7 @@ For more information, [see](http://algorithms.tutorialhorizon.com/backtracking-s
 
 ``` 
 
-### Execution
+## Execution 🐉
 To compile the code, simply run the `javac BackTrack.java`.
 To run the code, type `java BackTrack`
 
